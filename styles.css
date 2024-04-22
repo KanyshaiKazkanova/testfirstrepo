@@ -1,13 +1,13 @@
 .top-container{
   background-color: #FFFFFF;
-  height: 340px;
+  height: 320px;
   width: 65%; /* Задаем ширину в 65% от ширины родительского элемента */
   margin: 0 auto; /* Для центрирования контейнера по горизонтали */
 }
 
 .middle-container {
   background-color: #FFFFFF;
-  height: 1700px;
+  height: 1600px;
   width: 65%; /* Задаем ширину в 80% от ширины родительского элемента */
   max-width: 1200px; /* Максимальная ширина контейнера */
   margin: 0 auto; /* Для центрирования контейнера по горизонтали */
@@ -17,7 +17,7 @@
 
 .photo {
 	margin-right: 20px;
-	float: right;
+	float: left;
 }
 
 .table {
@@ -89,4 +89,3 @@ p {
 .custom-text {
   color: #330000; /* Цвет текста */
   font-family: 'Montserrat Alternates', sans-serif;
-}
